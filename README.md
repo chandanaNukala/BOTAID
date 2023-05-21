@@ -6,4 +6,8 @@ Data collection: ->Real time hospital data will be collected in JSON format
                  ->All the required attributes are present in the dataset
                  ->Algorithms are applied,patterns are found and responses are given to users.
                  ->Chatbot is highly customizable and we can make changes as we want when it comes to training data.
+                 
+                 
+ Sample botaid conversation:                
+                 
 ![botaid](https://github.com/chandanaNukala/BotAid/assets/66661365/a995de94-05bb-478e-97e5-8706b3e48ee3)
